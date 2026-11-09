@@ -1,0 +1,8 @@
+{
+  "precision": 0.39926830039780403,
+  "recall": 0.2326953796263391,
+  "map50": 0.27202008982883497,
+  "map50_95": 0.1996518561812493,
+  "eval_images": 10,
+  "checkpoint": "D:\\K5-L2-Day02-DinhTruongPhong-2A20263126-ObjectDetection\\notebooks\\runs\\detect\\Day2-Lab\\outputs\\yolo26_runs\\vehicle_annotation\\weights\\best.pt"
+}
